@@ -1,0 +1,38 @@
+.container{
+    
+    display: flex;
+    background-color: gray;
+    width: 900px;
+    height: 800px;
+    flex-wrap:  wrap ;
+    gap: 10px;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0 auto;
+
+}
+
+.mayda{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+
+.kotta{
+    background-color: white;
+    width: 270px;
+    height: 150px;
+    gap: 0px;
+    flex-wrap: wrap;
+
+}
+.kotta1{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+
+
+
+}
